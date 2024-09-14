@@ -6,8 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BeDauPro&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeDauPro&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=BeDauPro&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
